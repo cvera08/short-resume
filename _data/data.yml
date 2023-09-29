@@ -1,0 +1,6 @@
+basic:
+  name: Carlos Vera                      # name
+  title: QA Automation           # job title
+  avatar:
+    show: false                       # show or hide avatar
+    path: /assets/images/profile.png # avatar file path

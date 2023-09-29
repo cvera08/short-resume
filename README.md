@@ -1,6 +1,6 @@
 <h1 align="center">C Vera Online Resume</h1>
 
-<h4 align="center">Short CV online version.</h4>
+<h4 align="center">Short CV - online version.</h4>
 
 ---
 
