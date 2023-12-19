@@ -4,3 +4,14 @@ basic:
   avatar:
     show: false                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
+
+profile:
+  show: true
+  order: 1
+  title: PROFESSIONAL SUMMARY
+  description: |
+    High-performing **QA Automation** activities with a passion for technology.  
+    <br>
+    12+ years of experience impacting positive organizational outcomes through automation best practices, constant learning and positive communication.      
+    Confident in ability to collaborate with cross-functional teams to solve complex, high-stakes problems. Committed to continuous improvement and contributing to team success. 
+
