@@ -59,4 +59,19 @@ interest:
 
     My main motivation is client satisfaction and quality delivery. When you work with me, you will get 100% satisfaction guaranteed in my work and my process.
 
+award:
+  show: true
+  order: 4
+  title: KEY ACHIEVEMENTS
+  description: |
+    - Reduced development time to market.
+    - Increased product quality.
+    - Reduced time spent on repetitive tasks.
+    - Faster feedback loop.
+    - Reduced tester burnout.
+    - Increased time available for exploratory testing.
+    - Better data for decision making and reporting.
+    - Increased tester productivity (spent less time running manual tcs and regression cycles).
+    - Test Run on key areas.
+    - Increased number of tests run for broader test coverage.
 
