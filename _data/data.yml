@@ -94,3 +94,60 @@ reference:
     - Establish and manage requirement traceability through test plans and cases, all of this will be my input for automation candidates.  
     <br>
 
+experience:
+  show: true
+  order: 7
+  title: WORK EXPERIENCE
+  description: |
+
+  items:
+    - company: Blackpoint - [Cybersecurity]
+      link:
+      tags: 
+      date: Apr 2023 - Present
+      role: DevOps Automation Specialist
+      location: 
+      description: |
+
+    - company: Socure - [Identity Verification & Fraud Prevention]
+      link:
+      tags: 
+      date: Jul 2019 - May 2023
+      role: SDET (iOS - Native Mobile)
+      location: 
+      description: |
+
+    - company: Renault & Nissan - [Automobile Manufacturer]
+      link:
+      tags: 
+      date: Oct 2015 - Jul 2019
+      role: QA Technical Lead (of Manual, Hybrid & Automation)
+      location: 
+      description: |
+
+    - company: Webee - [IoT / Internet of Things]
+      link:
+      tags: 
+      date: May 2014 - Oct 2015
+      role: Architect Quality Engineer (Android - Mobile Responsive)
+      location: 
+      description: |
+
+    - company: PwC [Audit & Tax Advisory] 
+      date: Jan 2013 - May 2014
+      role: Ssr. Automation Engineer (Back-end Web)
+      location: 
+      description: | 
+
+    - company: EY - [Accounting]  
+      date: Dec 2010 - Jan 2013
+      role: Tester QA (Front-end Web)
+      location: 
+      description: |
+
+    - company: NEPS Solutions - [Software Factory]
+      date: Jan 2010 - Feb 2011
+      role: Jr. Developer (Front-end Web)
+      location: 
+      description: |
+          
