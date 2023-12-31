@@ -162,3 +162,13 @@ language:
       level: Advanced
     - idiom: Spanish
       level: Mother Tongue
+  <br>
+
+publication:
+  show: true
+  order: 12
+  title: ADDITIONAL INFORMATION
+  description: |
+    *Feel free to direct contact me to request the full version of this resume.*  
+    <br>
+    - [linkedin.com/carlos-vera-automation-qa](https://www.linkedin.com/in/carlos-vera-automation-qa)  
