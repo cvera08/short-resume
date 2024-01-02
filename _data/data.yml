@@ -5,6 +5,23 @@ basic:
     show: false                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
+contact:
+  # meta
+  location:  # location
+  email:     # email address
+  # phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: cvera-portfolio.vercel.app   # site URL without schema, like example.com, will automatically prepand "https://"
+
+  # programmer
+  github:                  cvera08 # username          | https://github.com/username
+
+  # other cv
+  linkedin: |
+    carlos-vera-automation-qa  
+
+    <br>
+    <br>
+
 profile:
   show: true
   order: 1
@@ -161,8 +178,9 @@ language:
     - idiom: English
       level: Advanced
     - idiom: Spanish
-      level: Mother Tongue
-<br>
+      level: Mother Tongue  
+
+
 
 publication:
   show: true
