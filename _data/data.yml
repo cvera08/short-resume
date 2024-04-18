@@ -117,9 +117,12 @@ experience:
 
   items:
     - company: Blackpoint - [Cybersecurity]
+      date: Feb 2024 - Present
+      role: Automation Technical Lead
+    - company:
       link:
       tags: 
-      date: Apr 2023 - Present
+      date: Apr 2023 - March 2024
       role: DevOps Automation Specialist
       location: 
       description: |
